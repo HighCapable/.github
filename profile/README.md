@@ -1,12 +1,21 @@
 ## Hi there 👋
 
-<!--
+Welcome to HighCapable Network Technology organization.
 
-**Here are some ideas to get you started:**
+Our team is committed to creating more perfect products and the best user experience, we hoping that these products can bring meaning and value to this era and society.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Subsidiary organizations:
+
+- [PureReader](https://github.com/PureReader)
+
+- [BetterAndroid](https://github.com/BetterAndroid)
+
+欢迎来到高能方网络科技组织。
+
+我们的团队致力于打造更完美的产品和最佳的用户体验，我们希望这些产品能为这个时代和社会带来意义和价值。
+
+旗下组织：
+
+- [PureReader (轻享阅)](https://github.com/PureReader)
+
+- [BetterAndroid](https://github.com/BetterAndroid)

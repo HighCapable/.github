@@ -1,2 +1,2 @@
 # .github
-Owner profile
+Owner profile.

@@ -36,3 +36,5 @@ We welcome capable developers to participate in our development work, if you are
 - [Telegram 频道](https://t.me/HighCapable)
 
 - [Telegram 群组](https://t.me/HighCapable_Dev)
+
+- [QQ 群](https://qm.qq.com/cgi-bin/qm/qr?k=Pnsc5RY6N2mBKFjOLPiYldbAbprAU3V7&jump_from=webapi&authKey=X5EsOVzLXt1dRunge8ryTxDRrh9/IiW1Pua75eDLh9RE3KXE+bwXIYF5cWri/9lf)
